@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil! 🤙
 
 <!--
 **OsBrCaioSo/OsBrCaioSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Estou "estudando" na Alura
+- Estou me desenvolvendo em JavaScript
+- Utiliza aqui para criar e compartilhar projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### 📬 Você pode entrar em contato comigo através do e-mail abaixo:
+ 
+ caio.olimpio115@gmail.com
+
+
+ https://media.tenor.com/d0d7Fxvkmq4AAAAM/sukuna-evil-laugh.gif
